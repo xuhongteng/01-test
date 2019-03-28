@@ -6,7 +6,7 @@ import org.springframework.boot.web.servlet.ServletComponentScan;
 import org.springframework.stereotype.Component;
 
 @SpringBootApplication
-@ServletComponentScan(basePackages ={"com.test.springboot.servlet","com.test.springboot.filter"} )
+//@ServletComponentScan(basePackages ={"com.test.springboot.servlet","com.test.springboot.filter"} )
 public class Application {
 
     public static void main(String[] args) {
